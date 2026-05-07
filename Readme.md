@@ -91,6 +91,7 @@ The **Corpus** widget was then used to convert each complaint into a document su
 
 ![File and Corpus Configuration](File.png) 
 ![File and Corpus Configuration](Corpus.png) 
+
 Figure 3: File and Corpus Configuration
 
 ---
