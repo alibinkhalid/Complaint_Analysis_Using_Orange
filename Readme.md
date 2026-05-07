@@ -143,6 +143,7 @@ The **Bag of Words** widget transformed the processed text into a document‑ter
   Appropriate for topic modelling and easier to explain to audit stakeholders.
 - No TF‑IDF or regularisation applied, as LDA performs best on raw counts.
 
+
 ![Bag of Words Configuration](BOW.png) 
 Figure 5: Bag of Words Configuration
 
